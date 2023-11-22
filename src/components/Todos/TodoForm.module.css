@@ -1,0 +1,18 @@
+.todoFormContainer {
+  margin-bottom: 30px;
+}
+
+.todoFormContainer form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.todoFormContainer input {
+  width: 45%;
+  height: 30px;
+  font-size: 1.3rem;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+}
